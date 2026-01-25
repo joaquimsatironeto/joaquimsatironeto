@@ -7,7 +7,7 @@
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" 
+    src="https://camo.githubusercontent.com/58f011e706677dc4da2df83eaf06709c251c90283bdbe1c002c248d2ab3b5ee1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32392f506f737467726573716c5f656c657068616e742e737667" 
 />
 <img 
     align="left" 
@@ -39,7 +39,7 @@
     title="Pentaho"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://prnt.sc/sJB7GfU9PevA" 
+    src="https://imgur.com/a/ra5Liep" 
 />
 <img 
     align="left" 
@@ -47,7 +47,7 @@
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://www.svgrepo.com/svg/303388/java-4-logo)" 
+    src="https://imgs.search.brave.com/tIM4RhHWu4bhWYZrErAavKFCLWf3MeevtU9moq5CCXc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9qYXZhLXBy/b2dyYW1taW5nLWxh/bmd1YWdlLWljb24u/cG5n" 
 />
 <img 
     align="left" 
