@@ -31,7 +31,7 @@
     title="PowerBI"
     width="30px"
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.pn"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png"
 />
 <img 
     align="left" 
@@ -39,7 +39,7 @@
     title="Pentaho"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://imgur.com/a/ra5Liep" 
+    src="https://i.imgur.com/mxNopkB.jpeg" 
 />
 <img 
     align="left" 
