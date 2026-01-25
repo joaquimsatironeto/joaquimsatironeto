@@ -1,5 +1,22 @@
 
 ### Skills
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+/>
 <img 
     align="left" 
     alt="Excel" 
@@ -10,21 +27,28 @@
 />
 <img 
     align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.pn"
+/>
+<img 
+    align="left" 
     alt="Pentaho" 
     title="Pentaho"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://agail.com.br/wp-content/uploads/2020/12/pdi.png" 
+    src="https://prnt.sc/sJB7GfU9PevA" 
 />
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://www.svgrepo.com/svg/303388/java-4-logo)" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -32,14 +56,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Jupyter" 
-    title="Jupyter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.icon-icons.com/2667/PNG/512/jupyter_app_icon_161280.png" 
 />
 <br/>
 <br/>
