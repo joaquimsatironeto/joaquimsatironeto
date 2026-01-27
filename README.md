@@ -63,7 +63,7 @@
     title="N8n"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://imgs.search.brave.com/dbgOKGyIuzkjKdB6KdJRh9CY-T11wPCyc3ZxihG4g1I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3Mvbi82/L244bl84MDAucG5n" 
+    src="https://imgs.search.brave.com/FGITka8TOdfC3EDG5AFhXflE9PS5o1zjjf9vJzlxEyA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9uOG4taWNv/bi5wbmc" 
 />
 <img 
     align="left" 
