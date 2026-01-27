@@ -15,7 +15,7 @@
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+    src="https://imgs.search.brave.com/nbHgeLtsh3wRmtJIZqULyVQVeL9-1TnxSWsj7Xc2V6Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvbXlzcWwvbXlz/cWxfUE5HMjMucG5n" 
 />
 <img 
     align="left" 
