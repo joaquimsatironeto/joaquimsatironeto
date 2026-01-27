@@ -57,6 +57,22 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="N8n" 
+    title="N8n"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://imgs.search.brave.com/krL1EVyEyGIiccZchVLdx2f_kdnLsELlXQZYuK3n8EM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/YnJhbmRmZXRjaC5p/by9pZE82XzZ1cUo5/L3RoZW1lL2Rhcmsv/bG9nby5zdmc_Yz0x/YnhpZDY0TXVwN2Fj/emV3U0FZTVgmdD0x/NjY3NjMxMjAzNTU4" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://imgs.search.brave.com/egI2VrkAPRuKmg5HD5T0xP24qP99iyO-mRp50cw6FKw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9kb2NrZXIt/aWNvbi5wbmc" 
+/>
 <br/>
 <br/>
 
