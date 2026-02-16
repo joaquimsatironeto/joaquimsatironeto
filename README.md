@@ -57,21 +57,5 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="N8n" 
-    title="N8n"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://imgs.search.brave.com/FGITka8TOdfC3EDG5AFhXflE9PS5o1zjjf9vJzlxEyA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9uOG4taWNv/bi5wbmc" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://imgs.search.brave.com/egI2VrkAPRuKmg5HD5T0xP24qP99iyO-mRp50cw6FKw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9kb2NrZXIt/aWNvbi5wbmc" 
-/>
 <br/>
 <br/>
