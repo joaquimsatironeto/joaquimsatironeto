@@ -13,8 +13,8 @@ I am a Data Analytics student from Brazil, currently pursuing a degree in System
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)&nbsp;
-![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0C2340.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### Database
