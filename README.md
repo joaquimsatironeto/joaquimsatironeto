@@ -1,4 +1,4 @@
-### Hi there, I'm [Joaquim Sátiro] 👋
+### Hi there, I'm Joaquim Sátiro 👋
 
 I am a Data Analytics student from Brazil, currently pursuing a degree in Systems Analysis and Development. I enjoy working with data, building dashboards, and turning raw data into meaningful insights using Excel, SQL, Python and Power BI.
 
@@ -9,10 +9,12 @@ I am a Data Analytics student from Brazil, currently pursuing a degree in System
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-#### ML/DL
+#### Libraries
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 #### Database
